@@ -1,15 +1,22 @@
 # Highway-Crash
 A 3D Car game.
-## Gameplay
-
-![Gameplay Screenshot](Screenshots/Game_Play_1.png)
-
 ## Main Menu
 
 ![Main Menu Screenshot](Screenshots/Main_Menu.png)
 
+## Garage-1
 
+![Garage Screenshot](Screenshots/Garage_1.png)
 
+## Garage-2
 
+![Garage Screenshot](Screenshots/Garage_2.png)
 
-![alt text](Main_Menu.png) ![alt text](Game_Over.png) ![alt text](Game_Play_1.png) ![alt text](Garage_2.png) ![alt text](Garage_1.png)
+## Gameplay
+
+![Gameplay Screenshot](Screenshots/Game_Play_1.png)
+
+## Game Over
+
+![Gameover Screenshot](Screenshots/Game_Over.png)
+
